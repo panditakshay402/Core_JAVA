@@ -9,8 +9,15 @@ public class operators {
         int d=a-b;
         int e=a*b;
         int f=a/b;        
-        int g=a%b;        
-        System.out.println(g);
+        int g=a%b;       
+        
+        
+        System.out.println(a&b);
+        int a=1,b=2;
+        
+        //ternary operator
+       a=(a > b) ? a : b;
+       System.out.println(a);
 
     }
 }
