@@ -16,7 +16,7 @@ public class operators {
         // int a=1,b=2;
         
         //ternary operator
-       a=(a > b) ? a : b;
+       a=(a > b ? a : b);
        System.out.println(a);
 
     }
