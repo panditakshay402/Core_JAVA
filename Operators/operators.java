@@ -12,7 +12,7 @@ public class operators {
         int g=a%b;       
         
         
-        System.out.println(a&b);
+        System.out.println(a & b);
         // int a=1,b=2;
         
         //ternary operator
