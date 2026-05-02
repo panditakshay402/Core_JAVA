@@ -6,7 +6,7 @@ class Datatypes {
         // Primitive DataTypes
         int a = 13131313;
         float b = 2.16443165464f;
-        double c = 2.111111156443164f;
+        double c = 2.11111115642243164f;
         int d = 'A';
         boolean e = true;
         short f = 26465;
