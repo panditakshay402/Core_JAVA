@@ -13,7 +13,7 @@ class Datatypes {
         long g = 264645145;
         byte h = -128;
 
-        //Non-Primitive DataTypess
+        //Non-Primitive DataTypes
         String s = "Akshay";
         int[] arr = { 1, 2, 3, 4, 5 };
 
