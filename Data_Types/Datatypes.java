@@ -15,7 +15,7 @@ class Datatypes {
 
         //Non-Primitive DataType
         String s = "Akshay";
-        int[] arr = { 1, 2, 3, 4, 5 };
+        int[] arr = {1,2,3,4,5};
 
         for (int i = 0; i < 5; i++) {
             System.out.println(arr[i]);
