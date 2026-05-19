@@ -6,7 +6,7 @@ public class variable {
         a=3.14555;
 
         final float pie=3.14f;
-        // pie=3.14444f;
+        
 
         int x,y,z;
         x=y=z=10;
